@@ -11,5 +11,8 @@
       "email": "604638018@qq.com",
       "role": "Developer"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-0": {"ComposerTest": "src/"}
+  }
 }
