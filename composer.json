@@ -1,0 +1,15 @@
+{
+  "name":"quanfuxia/composertest",
+  "description":"test composer",
+  "type":"library",
+  "keywords": ["test"],
+  "license":"Apache-2.0",
+  "homepage": "https://github.com/quanfuxia/composertest",
+  "authors": [
+    {
+      "name": "Ray",
+      "email": "604638018@qq.com",
+      "role": "Developer"
+    }
+  ]
+}
